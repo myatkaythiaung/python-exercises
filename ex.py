@@ -1,2 +1,3 @@
-I am study from UCSmdy.
-I am Myat Kaythi Aung.
+Mary had a little lamb
+Its fleece was white as snow
+It was also tasty

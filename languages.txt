@@ -1,0 +1,3 @@
+This exercise is hard!
+There's a lot of information in it that you need to understand, and it's information that goes deep into computers.
+This exercise is complex because's Python's string are complex and difficult to use.

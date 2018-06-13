@@ -7,7 +7,7 @@ def sort_words(words):
     return sorted(words)
 def print_first_word(words):
     """Prints the first word after popping it off."""
-    word = word.app(0)
+    word = words.pop(0)
     print(word)
 def print_last_word(words):
     """Prints the last word after popping it off."""

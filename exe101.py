@@ -5,7 +5,7 @@ fat_dog = """
 I'll do a list:
     \t* Dog food
     \t* Fishies
-    \t* Dognip\n\t* Grass
+    \t* Catnip\n\t* Grass
     """
 print(tabby_dog)
 print(persian_dog)
